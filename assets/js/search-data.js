@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-hair-simulation-with-position-based-dynamics",
+        },{id: "post-granular-simulation-with-position-based-dynamics",
+      
+        title: "Granular Simulation with Position Based Dynamics",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/pbd-grains/";
+        
+      },
+    },{id: "post-hair-simulation-with-position-based-dynamics",
       
         title: "Hair Simulation with Position Based Dynamics",
       
