@@ -20,8 +20,6 @@ The main behavior contributing to the realistic behavior of granular material is
 
 The algorithm uses standard position based dynamics to solve constraints:
 
-The technique proposed by Müller, et.al. introduces intentional numerical damping to hide the uneven mass distribution inherent to FTL. The steps for dynamic FTL with damping are:
-
 $$
 \Delta x_{i}^c = \lambda_i \nabla C(\vec{x})
 $$
