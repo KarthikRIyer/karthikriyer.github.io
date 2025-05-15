@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Karthik, a Computer Science MS Student at Texas A&M University. Before Texas A&M I was a Software Engineer at JPMorgan Chase. I graduated from IIT Roorkee with a major in Chemical Engineering and a minor in Computer Science. I discovered my love for Computer Graphics while tinkering with Blender in high-school and am looking to get into the entertainment industry using my technical skills. I am now in grad school to pursue my interests in Computer Graphics.
+I'm Karthik, and I just graduated with a Master's degree in Computer Science from Texas A&M University. Before Texas A&M I was a Software Engineer at JPMorgan Chase. I graduated from IIT Roorkee with a major in Chemical Engineering and a minor in Computer Science. I discovered my love for Computer Graphics while tinkering with Blender in high-school and am looking forward to my next adventure!
 
 Whenever I'm not working or studying, you'll find me watching movies/tv shows, reading (mostly fiction) or tinkering with Blender.
