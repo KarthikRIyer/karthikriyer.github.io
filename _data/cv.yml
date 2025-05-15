@@ -13,24 +13,84 @@
   contents:
     - title: Master of Computer Science
       institution: Texas A&M University, College Station
-      year: Exp. 2025
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: B.Tech. in Chemical Engineering with a minor in Computer Science
+      year: 2025
+      description:
+        - title: Courses
+          contents:
+            - Software Engineering
+            - Geometric Modeling
+            - Computer Animation
+            - Cloud Computing (Sprint Course)
+            - Analysis of Algorithms
+            - Directed Studies (Physically Based Simulation with Prof. Keyser)
+            - Law and Policy in Cybersecurity
+            - Operating Systems
+            - Artificial Intelligence
+            - Physically Based Modeling
+            - Distributed Systems and Cloud Computing
+    - title: B.Tech. in Chemical Engineering with a Minor in Computer Science
       institution: Indian Institute of Technology, Roorkee
       year: 2021
-      # description:
-      #   - Description 1.
-      #   - Description 2.
+      description:
+        - title: Minor Courses
+          contents:
+            - Data Structures
+            - Design and Analysis of Algorithms
+            - Computer Architecture and Microprocessors
+            - Theory of Computation
+            - Compiler Design
+        # - title: Major Courses
+        #   contents:
+        #     - Introduction to Environmental Studies
+        #     - Intorduction to Chemical Engineering
+        #     - Physical Chemistry
+        #     - Communication Skills (Advanced)
+        #     - Ethics and Self Awareness
+        #     - Mathematics-I
+        #     - Material and Energy Balance
+        #     - Fluid Dynamics
+        #     - Thermodynamics and Chemical Kinetics
+        #     - Organic and Inorganic Chemistry
+        #     - Electrical Science
+        #     - Mathematical Methods
+        #     - Heat Transfer
+        #     - Mechanical Operations
+        #     - Chemical Engineering Thermodynamics
+        #     - Transport Phenomena
+        #     - Economics
+        #     - Mechanical Engineering Drawing
+        #     - Energy Engineering
+        #     - Mass Transfer-I
+        #     - Reaction Engineering
+        #     - Chemical Technology
+        #     - Equipment Design
+        #     - Industrial Instrumentation
+        #     - Mass Transfer-II
+        #     - Process Dynamics and Control
+        #     - Process Equipment Design
+        #     - Computer Applications in Chemical Engineering
+        #     - Earthquake Geology and Geoinformatics
+        #     - Engineering Analysis and Process Modeling
+        #     - Process Economics and Plant Design
+        #     - Process Utilities and Safety
+        #     - Optimization of Chemical Engineering Processes
+        #     - Data Mining for Business Intelligence
+        #     - Mathematical Methods in Chemical Engineering
+        #     - Computational Fluid Dynamics
+        #     - Waste to Energy Conversion
+        #     - Introduction to Granular Rheology
 
 - title: Experience
   type: time_table
   contents:
+    - title: Student Technician
+      institution: Center for Teaching Excellence, Texas A&M University
+      year: 2024
+
+    - title: Software Engineering Intern
+      institution: Zscaler
+      year: 2024
+
     - title: Software Engineer
       institution: JPMorgan Chase & Co.
       year: 2021 - 2023
@@ -71,9 +131,9 @@
     - name: Databases
       value: Oracle, Apache Cassandra, MongoDB, Redis, Firebase Realtime Database
     - name: Frameworks/Libraries
-      value: OpenGL, matplotlib, VTK, OpenTimelineIO, PySide2, SpringBoot, Android Java Framework
+      value: OpenGL, matplotlib, VTK, OpenTimelineIO, PySide2, SpringBoot, Flask, PyTest, CI/CD, Android Java Framework, Agile
     - name: Software/Tools
-      value: Git, CMake, Oracle SQL Developer, Apache Kafka, Blender, Adobe Premiere Pro, Adobe After Effects
+      value: Apache Kafka, Docker, Postman, Jenkins, JFR, Eclipse MAT, GitHub Actions, Git, Maven, Gradle, CMake, Oracle SQL Developer, Blender, Adobe Premiere Pro, Adobe After Effects
 
 # - title: Open Source Projects
 #   type: time_table
